@@ -1,6 +1,6 @@
 # WebRTC Universal Binary
 
-This is WebRTC framework in XCFramework format for iOS and macOS.
+This is WebRTC framework in XCFramework format for iOS.
 
 Google provides the official builds for iOS, if all you need is iOS build, get it from Google:
 
