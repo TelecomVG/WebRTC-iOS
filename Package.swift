@@ -14,7 +14,7 @@ let package = Package(
     targets: [
         .binaryTarget(
 			name: "WebRTC",
-			url: "https://telecom.vg/assets/videoroom/mobile/webrtc-ios/releases/95.4638.0/WebRTC.xcframework.zip",
-			checksum: "05a14b412d43e0620a4ffaa3a9261b7e491c850bea9425a888ca3a5201b39e38")
+			url: "https://telecom.vg/assets/videoroom/mobile/webrtc-ios/releases/102.5005.0/WebRTC.xcframework.zip",
+			checksum: "4a4ed9b322b09699043c8e968880eeb95ba7323ed41236969909dcb8bd93d9c0")
     ]
 )
